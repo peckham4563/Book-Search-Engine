@@ -14,7 +14,9 @@ The usage of this webite is to alter and add code to an existing site that will 
 
 https://github.com/peckham4563/Book-Search-Engine/
 
-![Screenshot](/Other/Tech-Blog-Screenshot-1.png "Webpage Screenshot")
+![Screenshot](/Other/Book-Search-Screenshot-1.png "Webpage Screenshot")
+![Screenshot](/Other/Book-Search-Screenshot-2.png "Webpage Screenshot")
+
 
 ## Credits
 
